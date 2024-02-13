@@ -1,8 +1,9 @@
 # Naughty Sora
 
 <p align="center" dir="auto">
-  <a href="https://github.com/NaughtyySora">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Trofimenko%20Vladislav" alt="Trofimenko Vladislav" style="max-width: 100%;"></a>
+  <a href="https://github.com/NaughtyySora" style="text-decoration: none">
+    Trofimenko Vladislav
+  </a>
 </p>
 
 <p align="center" dir="auto">
